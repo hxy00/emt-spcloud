@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/emt-consumer/emt-consumer.iml" filepath="$PROJECT_DIR$/emt-consumer/emt-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emt-euraka-discovery/emt-euraka-discovery.iml" filepath="$PROJECT_DIR$/emt-euraka-discovery/emt-euraka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emt-euraka-server/emt-euraka-server.iml" filepath="$PROJECT_DIR$/emt-euraka-server/emt-euraka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emt-spcloud.iml" filepath="$PROJECT_DIR$/emt-spcloud.iml" />
+    </modules>
+  </component>
+</project>

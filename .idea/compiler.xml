@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="emt-consumer" />
+        <module name="emt-euraka-discovery" />
+        <module name="emt-euraka-server" />
+        <module name="emt-spcloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="emt-consumer" target="1.8" />
+      <module name="emt-euraka" target="1.8" />
+      <module name="emt-euraka-discovery" target="1.8" />
+      <module name="emt-euraka-server" target="1.8" />
+      <module name="emt-spcloud" target="1.5" />
+      <module name="emt.euraka.discovery" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
